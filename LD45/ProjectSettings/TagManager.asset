@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - World
+  - Blocks
+  - NPCs
+  - Cutscene
   - 
   - 
   - 
@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2388543903
+    locked: 0
+  - name: Ground
+    uniqueID: 306866567
+    locked: 0
+  - name: OnGround
+    uniqueID: 2881284489
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 4281294385
     locked: 0

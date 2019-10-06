@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -15,12 +16,17 @@ public static class ExtensionMethods
 
     public static T RandomItem<T>(this T[] array)
     {
-        return array[Random.Range(0, array.Length)];
+        return array[UnityEngine.Random.Range(0, array.Length)];
     }
 
     public static bool Approximate(this float a, float b)
     {
         return Mathf.Abs(a - b) <= Utilities.ApproximateComparisonNumber;
+    }
+
+    public static bool Approximate(this Vector2 a, Vector2 b)
+    {
+        return a.x.Approximate(b.x) && a.y.Approximate(b.y);
     }
 
     public static void SetLayer(this GameObject go, string layer)
@@ -38,10 +44,22 @@ public static class ExtensionMethods
     {
         rb.ApplyDrag(Vector2.right, drag);
     }
-    
+
     public static bool Probability(this float prob)
     {
-        return Random.Range(0f, 1f) <= prob;
+        return UnityEngine.Random.Range(0f, 1f) <= prob;
+    }
+
+    public static bool InMask(this int layer, LayerMask mask)
+    {
+        return mask == (mask | (1 << layer));
+    }
+
+    public static string Reverse(this string s)
+    {
+        char[] charArray = s.ToCharArray();
+        Array.Reverse(charArray);
+        return new string(charArray);
     }
 }
 
