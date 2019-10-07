@@ -1445,6 +1445,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: No! How could you have done such a thing? I can't belive it!
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -1459,11 +1464,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: No! How could you have done such a thing? I can't belive it!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -9916,6 +9916,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: You are... the one... no... you can't be... please. Leave me alone.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -9930,11 +9935,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: You are... the one... no... you can't be... please. Leave me alone.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -17024,16 +17024,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -13.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8
-      objectReference: {fileID: 0}
     - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -17043,6 +17033,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -13.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bacca60e3df04c4b8312dee0c58d739, type: 3}
@@ -17596,6 +17596,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Somebody must have broken a blue orb. Who did that?
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -17610,11 +17615,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Somebody must have broken a blue orb. Who did that?
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -19505,6 +19505,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: We're all in a maze, trying to find the right path. But is there even
+        one?
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -19519,12 +19525,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: We're all in a maze, trying to find the right path. But is there even
-        one?
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -19940,6 +19940,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3
+      objectReference: {fileID: 0}
     - target: {fileID: 7496251184750813964, guid: 0bacca60e3df04c4b8312dee0c58d739,
         type: 3}
       propertyPath: portals.Array.size
@@ -19955,16 +19965,6 @@ PrefabInstance:
       propertyPath: portals.Array.data[3]
       value: 
       objectReference: {fileID: 554467963}
-    - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bacca60e3df04c4b8312dee0c58d739, type: 3}
 --- !u!4 &452934224 stripped
@@ -20904,11 +20904,6 @@ PrefabInstance:
       propertyPath: time
       value: 0.02
       objectReference: {fileID: 0}
-    - target: {fileID: 5806659035805213990, guid: 324fadaadeb95344aa3229e09ab33160,
-        type: 3}
-      propertyPath: m_Radius
-      value: 0.15
-      objectReference: {fileID: 0}
     - target: {fileID: 2984864740589013775, guid: 324fadaadeb95344aa3229e09ab33160,
         type: 3}
       propertyPath: m_RootOrder
@@ -20928,6 +20923,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5806659035805213990, guid: 324fadaadeb95344aa3229e09ab33160,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.15
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5806659035805213989, guid: 324fadaadeb95344aa3229e09ab33160, type: 3}
@@ -30412,16 +30412,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -30431,6 +30421,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bacca60e3df04c4b8312dee0c58d739, type: 3}
@@ -32487,6 +32487,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: What you made is... I can't describe it. I wish I could forgive you.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -32501,11 +32506,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: What you made is... I can't describe it. I wish I could forgive you.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -34533,6 +34533,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: You're where it all comes from... The origin of evil...
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -34547,11 +34552,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: You're where it all comes from... The origin of evil...
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -36686,6 +36686,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Your mistake is... irreversible. Our world is ending.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -36700,11 +36705,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Your mistake is... irreversible. Our world is ending.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -38106,6 +38106,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: You doomed us all. Then try to save the world! Even though you know it's
+        impossible.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -38120,12 +38126,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: You doomed us all. Then try to save the world! Even though you know it's
-        impossible.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -39279,6 +39279,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: The beginning is getting closer and closer.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -39293,11 +39298,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: The beginning is getting closer and closer.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -43349,6 +43349,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: The blue orb... I can't believe you did it...
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -43363,11 +43368,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: The blue orb... I can't believe you did it...
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -43795,6 +43795,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Sometimes, you might be blocking your own way. But you can solve problems
+        you created!
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -43809,12 +43815,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Sometimes, you might be blocking your own way. But you can solve problems
-        you created!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -47677,6 +47677,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: The situation looks stuck, right? There should be a solution, though.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -47691,11 +47696,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: The situation looks stuck, right? There should be a solution, though.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -48259,6 +48259,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: This place looks familiar, right? It will not remain here forever.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -48273,11 +48278,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: This place looks familiar, right? It will not remain here forever.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -50686,6 +50686,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Something has happened to the blue orbs. They are all our world is made
+        of.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -50700,12 +50706,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Something has happened to the blue orbs. They are all our world is made
-        of.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -51127,6 +51127,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: See? This looked impossible, but you did it! Maybe there's a way to save
+        us all.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -51141,12 +51147,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: See? This looked impossible, but you did it! Maybe there's a way to save
-        us all.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -54821,6 +54821,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: To err is human. But... you are not human. I don't know if I can forgive
+        you.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -54835,12 +54841,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: To err is human. But... you are not human. I don't know if I can forgive
-        you.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -57786,6 +57786,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Sometimes, you need to do things in the right order.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -57800,11 +57805,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Sometimes, you need to do things in the right order.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -59606,6 +59606,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: It's getting worse! No one understands why this is happening! Our world...
+        destroyed!
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -59620,12 +59626,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: It's getting worse! No one understands why this is happening! Our world...
-        destroyed!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -61930,6 +61930,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Our world, depopulated... This is a nightmare.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -61944,11 +61949,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Our world, depopulated... This is a nightmare.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -63989,6 +63989,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: I think someone has broken a blue orb. This must be the explanation.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -64003,11 +64008,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: I think someone has broken a blue orb. This must be the explanation.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -65497,16 +65497,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7282358712554258154, guid: 0bacca60e3df04c4b8312dee0c58d739,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -65516,6 +65506,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5564547284061553804, guid: 0bacca60e3df04c4b8312dee0c58d739,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bacca60e3df04c4b8312dee0c58d739, type: 3}
@@ -70966,6 +70966,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: Look... For what you made. I... forgive you.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -70980,11 +70985,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: Look... For what you made. I... forgive you.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -72515,6 +72515,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: You are... the one... no... you can't be... please. Leave me alone.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -72529,11 +72534,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: You are... the one... no... you can't be... please. Leave me alone.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -76216,6 +76216,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: You are blue... that means... is it you?
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -76230,11 +76235,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: You are blue... that means... is it you?
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -82337,6 +82337,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: The world we all love and live in... What is happening? Who did that?
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -82351,11 +82356,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: The world we all love and live in... What is happening? Who did that?
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
@@ -87922,6 +87922,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
+        type: 3}
+      propertyPath: text
+      value: What looks complex is often rather simple.
+      objectReference: {fileID: 0}
     - target: {fileID: 5841083510526089039, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -87936,11 +87941,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2035579858320859367, guid: 1d00717c0a43edc42b5b8ae78cc701a1,
-        type: 3}
-      propertyPath: text
-      value: What looks complex is often rather simple.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d00717c0a43edc42b5b8ae78cc701a1, type: 3}
